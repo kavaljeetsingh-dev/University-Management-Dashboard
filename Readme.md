@@ -1,4 +1,4 @@
-# 🎓 University Management System (PERN Stack)
+# 🎓 University Management System (PERN Stac)
 
 A full-stack **University Management System** built using the **PERN stack (PostgreSQL, Express, React, Node.js)** to manage academic and administrative operations efficiently.
 
